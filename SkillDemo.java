@@ -1,7 +1,7 @@
 public class SkillDemo {
 
-  public static boolean returnsTrue {
+  public static boolean returnsTrue() {
     return true;
-   }
+  }
    
- }
+}
