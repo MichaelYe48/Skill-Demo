@@ -5,6 +5,6 @@ import org.junit.*;
 public class SkillDemoTest {
     @Test
     public void testReturnTrue() {
-        assertEquals(false, SkillDemo.returnsTrue());
+        assertEquals(true, SkillDemo.returnsTrue());
     }
 }
